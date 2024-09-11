@@ -1,6 +1,7 @@
 **Metadata and Metadata Management**
 
 **Objectives**
+
 After completing this reading, you will be able to:
 - Define what metadata is
 - Describe what metadata management is
