@@ -9,6 +9,7 @@ After completing this reading, you will be able to:
 - List popular tools for metadata management
 
 **What is metadata?**
+
 Metadata is data that provides information about other data.
 
 This is a very broad definintion. Here we will consider the concept of metadata within the context of databases, data warehousing, business intelligence systems, and all kinds of data repositories and platforms.
@@ -19,6 +20,7 @@ We'll consider the following three main types of metadata:
 - Business metadata
 
 **Technical metadata**
+
 Technical metadata is metadata which defines the data structures in data repositories or platforms, primarily from a technical perspective.
 
 For example, technical metadata in a data warehouse includes assets such as:
@@ -35,6 +37,7 @@ For example, technical metadata in a data warehouse includes assets such as:
 The technical metadata for relational databases is typically stored in specialized tables in the database called the System Catalog.
 
 **Process metadata**
+
 Process metadata describes the processes that operate behind business systems such as data warehouses, accounting systems, or customer relationship management tools.
 
 Many important enterprise systems are responsible for collecting and processing data from various sources. Such critical systems need to be monitored for failures and any performance anomalies that arise. Process metadata for such sytems includes tracking things like:
@@ -47,6 +50,7 @@ Many important enterprise systems are responsible for collecting and processing 
 This sort of data is invaluable for troubleshooting and optimizing workflows and ad hoc queries.
 
 **Business metadata**
+
 Users who want to explore and analyze data within and outside the enterprise are typically interested in data discovery. They need to be able to find data which is meaningful and valuable to them and know where that data can be accessed from. These business-minded users are thus interested in business metadata, which is information about the data described in readily interpretable ways, such as:
 
 - how the data is acquired
@@ -55,11 +59,13 @@ Users who want to explore and analyze data within and outside the enterprise are
 Business metadata also serves as documentation for the entire data warehouse system.
 
 **Managing metadata**
+
 Managing metadata includes developing and administering policies and processes to ensure information can be accessed and integrated from various sources and appropriately shared across the entire enterprise.
 
 Creation of a reliable, user-friendly data catalog is a primary objective of a metadata management model. The data catalog is a core component of a modern metadata management system, serving as the main asset around which metadata management is administered. It serves as the basis by which companies can inventory and efficiently organize their data systems. A modern metadata managment model will include a web-based user interface that enables engineers and business users to easily search for and find information on key attributes such as CustomerName or ProductType. This kind of model is central to any Data Governance initiative.
 
 **Why is metadata management important?**
+
 Good metadata management has many valuable benefits. Having access to a well implemented data catalog greatly enhances data discovery, repeatability, governance, and can also facilitate access to data.
 
 Well managed metadata helps you to understand both the business context associated with the enterprise data and the data lineage, which helps to improve data governance. Data lineage provides information about the origin of the data and how it gets transformed and moved, and thus it facilitates tracing of data errors back to their root cause. Data governance is a data management concept concerning the capability that enables an organization to ensure that high data quality exists throughout the complete lifecycle of the data, and data controls are implemented that support business objectives.
@@ -67,6 +73,7 @@ Well managed metadata helps you to understand both the business context associat
 The key focus areas of data governance include availability, usability, consistency, data integrity and data security and includes establishing processes to ensure effective data management throughout the enterprise such as accountability for the adverse effects of poor data quality and ensuring that the data which an enterprise has can be used by the entire organization.
 
 **Popular tools for metadata management**
+
 Popular metadata management tools include:
 
 - IBM InfoSphere Information Server
@@ -85,6 +92,7 @@ Popular metadata management tools include:
 - Informatica Enterprise Data Catalog
 
 **Summary**
+
 In this reading, you learned that:
 
 - Metadata is data that provides information about other data, and includes three main types: technical, process, and business metadata
