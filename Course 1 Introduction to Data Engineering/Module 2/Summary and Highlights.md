@@ -1,3 +1,5 @@
+**The Data Ecosystem and Languages for Data Professionals**
+
 **Summary and Highlights**
 
 In this lesson, you have learned:
