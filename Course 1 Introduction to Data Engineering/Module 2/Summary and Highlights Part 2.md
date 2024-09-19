@@ -1,6 +1,7 @@
 **Data Repositories, Data Pipelines, and Data Integration Platforms**
 
 **Summary and Highlights**
+
 In this lesson, you have learned:
 
 A Data Repository is a general term that refers to data that has been collected, organized, and isolated so that it can be used for reporting, analytics, and also for archival purposes. 
